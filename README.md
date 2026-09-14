@@ -1,6 +1,6 @@
 <!-- togo-header -->
 <div align="center">
-  <img src=".github/assets/togo-mark.svg" alt="togo" height="64" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/togo-mark-dark.svg" /><img src=".github/assets/togo-mark.svg" alt="ToGO" height="64" /></picture>
   <h1>togo-framework/notifications-discord</h1>
   <p>Discord channel for togo notifications — send messages + embeds via a webhook.</p>
   <p><strong>Part of the <a href="https://to-go.dev">togo</a> framework.</strong></p>
